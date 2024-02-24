@@ -1,2 +1,3 @@
 # new-project-demo
-This is first git repositor.
+This is my first git repositor.<br>
+author: Kalyan Singh.
